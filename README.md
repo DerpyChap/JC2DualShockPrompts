@@ -10,3 +10,5 @@ The final path to the file should look something like this: `../steamapps/common
 
 ## Notes
 Not all prompts have been replaced, most notably the D-Pad that appears when switching weapons and the LT/RT prompts on the map screen. The control settings in the menus also still reference the Xbox 360 controller. As far as I can tell, though, everything else has been swapped, including all A/B/X/Y prompts being swapped with their DualShock counterparts (X/O/□/∆).
+
+Also this does **NOT** add native DualShock support to the game, this only replaces the existing Xbox prompts with DualShock ones. An input wrapper, such as Steam Input, is still required.
