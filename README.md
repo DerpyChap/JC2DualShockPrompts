@@ -4,7 +4,7 @@ Adds DualShock button prompts to Just Cause 2, accomplished by copying the butto
 ![](/screenshot.jpg)
 
 ## Installation
-Download the zip file from the releases and extract the `JC2DualShockPrompts` folder to the game directory's `dropzone` folder (create one if you don't have one already).
+[Download the zip file from the releases](https://github.com/DerpyChap/JC2DualShockPrompts/releases/download/latest/JC2DualShockPrompts.zip) and extract the `JC2DualShockPrompts` folder to the game directory's `dropzone` folder (create one if you don't have one already).
 
 The final path to the file should look something like this: `../steamapps/common/Just Cause 2/dropzone/JC2DualShockPrompts/text/button_prompts.csv`.
 
