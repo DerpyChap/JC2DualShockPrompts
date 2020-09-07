@@ -1,5 +1,5 @@
 # JC2DualShockPrompts
-Adds DualShock button prompts to Just Cause 2, accomplished by copying the button icon values from the PlayStation 3 version of the game.
+Adds DualShock button prompts to Just Cause 2 for PC, accomplished by copying the button icon values from the PlayStation 3 version of the game.
 
 ![](/screenshot.jpg)
 
